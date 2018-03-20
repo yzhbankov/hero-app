@@ -1,0 +1,11 @@
+.heroes {
+  font-size: 20px;
+  color: forestgreen;
+}
+.badge {
+  font-weight: bold;
+}
+
+.selected {
+  color: black;
+}
